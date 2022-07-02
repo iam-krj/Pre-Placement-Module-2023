@@ -7,8 +7,8 @@
 - Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/sanchez_krj/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/smartkrishnaraj1)
+- LeetCode: [sanchez_krj](https://leetcode.com/sanchez_krj/)
+- HackerRank: [smartkrishnaraj1](https://www.hackerrank.com/smartkrishnaraj1)
 
 ## Placement Module
 1. [DS I](https://github.com/iam-krj/Pre-Placement-Module-2023/tree/main/DS%20I)
